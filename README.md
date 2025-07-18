@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmedcodexx&theme=dark&card_width=480&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=ahmedcodexx&theme=dark&ring=36BCF7FF&fire=36BCF7&currStreakLabel=36BCF7&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedcodexx&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedcodexx&theme=dark&card_width=500&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmedcodexx&icon=0&color=0)](https://visitcount.itsvg.in)
